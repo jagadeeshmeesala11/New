@@ -1,0 +1,15 @@
+
+.nav-bar{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly;
+ align-items: center;   
+ background-color: rgb(16, 16, 99);
+ height: 10vh;
+ width: 100vw;
+ color: white;
+}
+
+.list{
+    list-style-type: none;
+}
